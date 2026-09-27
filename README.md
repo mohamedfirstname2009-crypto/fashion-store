@@ -20,7 +20,7 @@
 
 ```sql
 insert into public.admins (user_id)
-values ('ضع-UID-المستخدم-هنا');
+values ('8681d83f-3f79-4797-b04e-a96b1b207599');
 ```
 
 بعدها افتح `admin.html` وسجّل الدخول بنفس البريد وكلمة المرور.
